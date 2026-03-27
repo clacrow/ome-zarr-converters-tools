@@ -73,3 +73,6 @@ __all__ = [
     "setup_images_for_conversion",
     "tiles_aggregation_pipeline",
 ]
+
+
+VERSION="0.7.4"
